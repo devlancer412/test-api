@@ -1,0 +1,8 @@
+../python_mail/Search.py
+../python_mail/__init__.py
+../python_mail/__pycache__/Search.cpython-39.pyc
+../python_mail/__pycache__/__init__.cpython-39.pyc
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt

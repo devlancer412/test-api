@@ -1,0 +1,3 @@
+[console_scripts]
+hdwallet = hdwallet.cli.__main__:main
+

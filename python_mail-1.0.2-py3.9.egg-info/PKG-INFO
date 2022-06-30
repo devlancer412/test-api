@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: python-mail
+Version: 1.0.2
+Summary: Management email module
+Home-page: https://github.com/marianaalbano/python_mail.git
+Author: Mariana Albano
+Author-email: mariana.albano@outlook.com
+License: MIT License
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+Esse módulo foi criado com o objetivo de realizar a busca de mensagens na caixa de e-mail de forma simplificada e intuitiva utilizando o módulo imaplib para conexão.
+

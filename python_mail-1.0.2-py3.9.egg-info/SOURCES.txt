@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+python_mail/Search.py
+python_mail/__init__.py
+python_mail.egg-info/PKG-INFO
+python_mail.egg-info/SOURCES.txt
+python_mail.egg-info/dependency_links.txt
+python_mail.egg-info/top_level.txt
